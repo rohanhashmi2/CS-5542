@@ -1,0 +1,10 @@
+In venture finance, price per share (PPS) is calculated by dividing the company’s pre-money valuation by the number of pre-money shares outstanding.
+This value determines how many shares an investor receives for a given investment amount.
+
+For SAFE conversions, the effective price per share is determined by comparing the valuation cap price and the discounted price.
+The lower of the two prices is used, which benefits the SAFE investor.
+This mechanism ensures that early investors are rewarded for taking on higher risk.
+
+Accurate PPS calculations are essential for cap table modeling and ownership analysis.
+Errors in PPS can lead to incorrect dilution estimates and misleading investor reports.
+Therefore, PPS logic is a core component of any venture-finance modeling system.

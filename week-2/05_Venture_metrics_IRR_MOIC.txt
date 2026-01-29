@@ -1,0 +1,10 @@
+Investors evaluate venture performance using metrics such as IRR (Internal Rate of Return) and MOIC (Multiple on Invested Capital).
+IRR measures the annualized return of an investment over time, accounting for cash flow timing.
+MOIC measures total return as a simple multiple of invested capital.
+
+These metrics are typically calculated after a liquidity event such as an acquisition or IPO.
+They depend on accurate ownership percentages and exit valuations.
+Incorrect modeling of dilution or conversion can lead to misleading IRR and MOIC values.
+
+Because these metrics rely on many upstream assumptions, traceability to source documents is important.
+This makes them well-suited for retrieval-augmented generation systems with grounded evidence.

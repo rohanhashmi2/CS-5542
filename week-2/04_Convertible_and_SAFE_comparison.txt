@@ -1,0 +1,10 @@
+Convertible notes and SAFEs are both instruments used to delay valuation in early-stage investments.
+Convertible notes are debt instruments that accrue interest and have a maturity date.
+If the note does not convert by maturity, repayment may be required.
+
+SAFEs, by contrast, are not debt and do not accrue interest.
+They convert only upon defined trigger events and typically include fewer legal obligations.
+This simplicity has made SAFEs more popular in seed-stage fundraising.
+
+Despite their simplicity, SAFEs can create complex capitalization outcomes when multiple SAFEs exist with different terms.
+Comparing SAFEs and convertible notes is important for understanding investor rights and risks.

@@ -1,0 +1,11 @@
+A SAFE (Simple Agreement for Future Equity) is an investment instrument commonly used in early-stage venture financing.
+Unlike traditional debt, a SAFE does not accrue interest and does not have a maturity date.
+Instead, it converts into equity upon a future triggering event, typically a priced equity financing.
+
+Key terms in a SAFE include the valuation cap, discount rate, and most-favored-nation (MFN) clause.
+The valuation cap sets a maximum company valuation at which the SAFE will convert, protecting early investors from excessive dilution.
+The discount rate allows the SAFE holder to convert at a lower price per share than new investors in the triggering round.
+
+SAFEs are popular because they are simpler than convertible notes and reduce legal complexity.
+However, they can create uncertainty around ownership percentages until conversion occurs.
+Understanding how SAFEs convert is critical for modeling dilution and post-money ownership.

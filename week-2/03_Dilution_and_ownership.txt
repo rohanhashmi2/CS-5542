@@ -1,0 +1,9 @@
+Dilution occurs when a company issues new shares, reducing the ownership percentage of existing shareholders.
+Although dilution decreases percentage ownership, it does not necessarily reduce economic value if the company’s valuation increases.
+
+Ownership is typically expressed as a percentage of total fully diluted shares.
+Fully diluted shares include common stock, preferred stock, options, and shares resulting from SAFE or convertible note conversions.
+
+Modeling dilution correctly requires tracking both share counts and conversion mechanics.
+Failure to account for instruments like SAFEs can significantly misstate true ownership.
+As a result, dilution modeling is a critical use case for document-based financial analysis systems.

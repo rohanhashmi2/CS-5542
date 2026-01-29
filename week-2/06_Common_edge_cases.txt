@@ -1,0 +1,10 @@
+Edge cases in venture finance often arise when documents omit key terms or contain ambiguous language.
+For example, a SAFE may reference a valuation cap without clearly defining the capitalization basis.
+This ambiguity can lead to multiple reasonable interpretations.
+
+Another edge case occurs when multiple SAFEs with different terms convert in the same financing round.
+The interaction between valuation caps, discounts, and new investor pricing can be complex.
+Without clear documentation, automated systems may struggle to produce confident answers.
+
+Handling ambiguity requires systems to either ask clarifying questions or surface assumptions explicitly.
+This makes ambiguous queries an important test case for advanced RAG pipelines.
