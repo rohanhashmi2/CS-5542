@@ -93,3 +93,16 @@ flowchart TD
 | Q2 | 10 | 1.00 | 0.308 |
 | Q3 | All | 0.00 | 0.000 |
 
+
+---
+
+## Discussion
+
+### **Retrieval Evaluation**
+We evaluate retrieval using Precision@5 and Recall@10. Page-based chunking consistently outperforms fixed-size chunking across both TF-IDF and BM25, suggesting that preserving document structure improves retrieval quality for academic PDFs.
+
+### **Ablation Study**
+We conduct ablations over chunking strategy (page vs fixed), retrieval method (TF-IDF vs BM25), and retrieval depth (TOP_K_TEXT ∈ {2,5,10}). Results show that page-based chunking yields higher recall, while increasing TOP_K_TEXT provides no additional benefit in this dataset.
+
+### **Faithfulness**
+For queries without supporting evidence (Q3), the system abstains from answering. This demonstrates strong faithfulness by avoiding hallucinated responses.
